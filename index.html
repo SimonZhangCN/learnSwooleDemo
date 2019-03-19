@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>swoole-chat</title>
+</head>
+<body>
+<div>
+    <h1>chat-demo</h1>
+    <input type="text" id="msg">
+    <button id="submit">发送</button>
+</div>
+<script>
+    let url = 'ws://swoole-demo.com:9501'
+    let ws = new WebSocket(url)
+
+    // 建立连接成功后的回调函数
+    ws.onopen = function (event) {
+        console.log('和服务器建立连接了', event)
+    }
+
+    // 连接失败的回调函数
+    ws.onerror = function (event) {
+        console.log('连接服务器失败了', event)
+    }
+
+
+    // 接收到服务端发送过来的消息回调事件
+    ws.onmessage = function (event) {
+        console.log('接收到服务端的信息', event)
+        alert(event.data)
+    }
+
+    // 向服务器主动发送信息
+    // ws.send(Math.random() * 1000)
+    document.getElementById('submit').addEventListener('click', function () {
+        let msg = document.getElementById('msg').value
+        console.log('向服务器发送了' + msg)
+        ws.send(msg)
+    })
+
+    // 连接关闭后的回调处理函数
+    ws.onclose = function (event) {
+        console.log('和服务器断开连接了',event)
+    }
+
+    // ws.close(主动关闭和服务端的连接)
+</script>
+</body>
+</html>
