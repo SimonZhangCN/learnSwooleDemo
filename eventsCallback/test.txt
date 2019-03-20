@@ -1,0 +1,2043 @@
+触发了Start事件回调
+master进程ID：16210
+manager进程ID：16211
+触发了ManagerStart事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16213
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16213.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+触发了WorkerStart事件回调，Worker进程PID为16214
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16214] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16215
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16215] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16213] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16216
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16216] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16217
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16217] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16218
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16218.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16218] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16219
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16219] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16220
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16220] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16221
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16221.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16221] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16222
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16222] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16223
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16223] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16224
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16224.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16224] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16225
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16225] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16226
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16226] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16227
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16227.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16227] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16228
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16228] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16229
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16229] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16230
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16230.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16230] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16231
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16231] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16232
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16232] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16233
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16233.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16233] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16234
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16234] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16235
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16235] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16236
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16236.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16236] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16237
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16237] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16238
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16238] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16239
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16239.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16239] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16240
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16240] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16241
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16241] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16242
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16242.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16242] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16243
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16243] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16244
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16244] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16245
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16245.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16245] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16246
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16246] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16247
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16247] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16248
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16248.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16248] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16249
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16249] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16250
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16250] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16251
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16251.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16251] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16252
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16252] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16253
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16253] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16254
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16254.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16254] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16255
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16255] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16256
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16256] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16257
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16257.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16257] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16258
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16258] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16259
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16259] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16260
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16260.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16260] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16261
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16261] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16262
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16262] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16263
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16263.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16263] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16264
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16264] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16265
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16265] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16266
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16266.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16266] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16267
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16267] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16268
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16268] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16269
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16269.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16269] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16270
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16270] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16271
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16271] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16272
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16272.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16272] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16273
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16273] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16274
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16274] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16275
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16275.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16275] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16276
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16276] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16277
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16277] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16278
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16278.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16278] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16279
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16279] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16280
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16280] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16281
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16281.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16281] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16282
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16282] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16283
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16283] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16285
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16285] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16284
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16284.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16284] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16286
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16286] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16287
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16287] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16288
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16288.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16288] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16289
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16289] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16290
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16290] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16291
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16291.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16291] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16292
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16292] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16293
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16293] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16294
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16294.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16294] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16295
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16295] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16296
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16296] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16297
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16297.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16297] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16298
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16298] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16299
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16299] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16300
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16300.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16300] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16301
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16301] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16302
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16302] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16303
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16303.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16303] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16304
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16304] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16305
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16305] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16306
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16306.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16306] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16307
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16307] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16308
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16308] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16309
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16309.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16309] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16310
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16310] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16311
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16311] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16312
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16312.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16312] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16313
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16313] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16314
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16314] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16315
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16315.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16315] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16316
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16316] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16317
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16317] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16318
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:13 ^16318.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16318] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16319
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16319] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16320
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16320] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16321
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16321.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16321] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16322
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16322] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16323
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16323] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16324
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16324.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16324] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16325
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16325] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16326
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16326] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16327
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16327.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16327] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16328
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16328] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16329
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16329] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16330
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16330.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16330] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16331
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16331] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16332
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16332] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16333
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16333.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16333] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16334
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16334] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16335
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16335] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16336
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16336.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16336] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16337
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16337] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16338
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16338] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16339
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16339.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16339] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16340
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16340] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16341
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16341] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16342
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16342.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16342] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16343
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16343] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16344
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16344] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16345
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16345.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16345] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16346
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16346] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16347
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16347] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16348
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16348.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16348] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16349
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16349] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16350
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16350] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16351
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16351.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16351] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16352
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16352] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16353
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16353] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16354
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16354.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16354] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16355
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16355] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16356
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16356] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16357
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16357.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16357] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16358
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16358] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16359
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16359] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16360
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16360.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16360] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16361
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16361] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16362
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16362] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16363
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16363.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16363] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16364
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16364] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16365
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16365] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16366
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16366.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16366] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16367
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16367] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16368
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16368] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16369
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16369.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16369] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16370
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16370] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16371
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16371] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16372
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16372.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16372] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16373
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16373] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16374
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16374] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16375
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16375.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16375] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16376
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16376] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16377
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16377] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16378
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16378.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16378] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16379
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16379] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16380
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16380] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16381
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16381.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16381] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16382
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16382] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16383
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16383] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16384
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16384.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16384] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16385
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16385] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16386
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16386] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16387
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16387.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16387] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16388
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16388] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16389
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16389] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16390
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16390.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16390] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16391
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16391] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16392
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16392] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16393
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16393.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16393] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16394
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16394] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16395
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16395] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16396
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16396.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16396] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16397
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16397] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16398
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16398] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16399
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16399.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16399] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16400
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16400] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16401
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16401] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，taskWorker进程PID为16402
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 ^16402.2]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 [internal function]: {closure}(Object(Swoole\Server), 2)
+#1 /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php(78): Swoole\Server->start()
+#2 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39.
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=16402] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16403
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#1[pid=16403] abnormal exit, status=255, signal=0
+触发了WorkerError事件回调
+触发了WorkerStart事件回调，Worker进程PID为16404
+
+Fatal error: Uncaught Error: Class 'fsfsdfds' not found in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php:39
+Stack trace:
+#0 {main}
+  thrown in /mnt/hgfs/CentOS7/learnSwooleDemo/eventsCallback/server.php on line 39
+[2019-03-20 16:53:14 $16211.0]	WARNING	swManager_check_exit_status: worker#0[pid=16404] abnormal exit, status=255, signal=0
